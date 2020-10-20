@@ -1,0 +1,14 @@
+body {
+    background-color: #94A187;
+}
+h1 {
+    background-color:#5F7A69;
+}
+.bar {
+  border-style: none;
+  background-color: #29524A;
+}
+.bar:hover {
+    fill: #29524A;
+    border-style: none;
+  }
